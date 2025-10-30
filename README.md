@@ -93,7 +93,7 @@ Outras pastas seguem padrão semelhante, cada uma com seu `Program.cs` e `.cspro
 ## Perfil no Codewars
 
 ```md
-[Meu perfil no Codewars]https://www.codewars.com/users/Lucas-Suyama
+https://www.codewars.com/users/Lucas-Suyama
 ```
 
 ---
