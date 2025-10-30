@@ -1,0 +1,14 @@
+C:\Users\lucas\Documents\Codewars\Convert a Boolean to a String\bin\Debug\net9.0\Convert a Boolean to a String.exe
+C:\Users\lucas\Documents\Codewars\Convert a Boolean to a String\bin\Debug\net9.0\Convert a Boolean to a String.deps.json
+C:\Users\lucas\Documents\Codewars\Convert a Boolean to a String\bin\Debug\net9.0\Convert a Boolean to a String.runtimeconfig.json
+C:\Users\lucas\Documents\Codewars\Convert a Boolean to a String\bin\Debug\net9.0\Convert a Boolean to a String.dll
+C:\Users\lucas\Documents\Codewars\Convert a Boolean to a String\bin\Debug\net9.0\Convert a Boolean to a String.pdb
+C:\Users\lucas\Documents\Codewars\Convert a Boolean to a String\obj\Debug\net9.0\Convert a Boolean to a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Codewars\Convert a Boolean to a String\obj\Debug\net9.0\Convert a Boolean to a String.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Codewars\Convert a Boolean to a String\obj\Debug\net9.0\Convert a Boolean to a String.AssemblyInfo.cs
+C:\Users\lucas\Documents\Codewars\Convert a Boolean to a String\obj\Debug\net9.0\Convert a Boolean to a String.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Codewars\Convert a Boolean to a String\obj\Debug\net9.0\Convert a Boolean to a String.dll
+C:\Users\lucas\Documents\Codewars\Convert a Boolean to a String\obj\Debug\net9.0\refint\Convert a Boolean to a String.dll
+C:\Users\lucas\Documents\Codewars\Convert a Boolean to a String\obj\Debug\net9.0\Convert a Boolean to a String.pdb
+C:\Users\lucas\Documents\Codewars\Convert a Boolean to a String\obj\Debug\net9.0\Convert a Boolean to a String.genruntimeconfig.cache
+C:\Users\lucas\Documents\Codewars\Convert a Boolean to a String\obj\Debug\net9.0\ref\Convert a Boolean to a String.dll

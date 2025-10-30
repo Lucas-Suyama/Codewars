@@ -1,0 +1,14 @@
+C:\Users\lucas\Documents\Codewars\Opposite\obj\Debug\net9.0\Opposite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Codewars\Opposite\obj\Debug\net9.0\Opposite.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Codewars\Opposite\obj\Debug\net9.0\Opposite.AssemblyInfo.cs
+C:\Users\lucas\Documents\Codewars\Opposite\obj\Debug\net9.0\Opposite.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Codewars\Opposite\bin\Debug\net9.0\Opposite.exe
+C:\Users\lucas\Documents\Codewars\Opposite\bin\Debug\net9.0\Opposite.deps.json
+C:\Users\lucas\Documents\Codewars\Opposite\bin\Debug\net9.0\Opposite.runtimeconfig.json
+C:\Users\lucas\Documents\Codewars\Opposite\bin\Debug\net9.0\Opposite.dll
+C:\Users\lucas\Documents\Codewars\Opposite\bin\Debug\net9.0\Opposite.pdb
+C:\Users\lucas\Documents\Codewars\Opposite\obj\Debug\net9.0\Opposite.dll
+C:\Users\lucas\Documents\Codewars\Opposite\obj\Debug\net9.0\refint\Opposite.dll
+C:\Users\lucas\Documents\Codewars\Opposite\obj\Debug\net9.0\Opposite.pdb
+C:\Users\lucas\Documents\Codewars\Opposite\obj\Debug\net9.0\Opposite.genruntimeconfig.cache
+C:\Users\lucas\Documents\Codewars\Opposite\obj\Debug\net9.0\ref\Opposite.dll

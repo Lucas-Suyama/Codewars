@@ -1,0 +1,14 @@
+C:\Users\lucas\Documents\Codewars\Remove First and Last Character\bin\Debug\net9.0\Remove First and Last Character.exe
+C:\Users\lucas\Documents\Codewars\Remove First and Last Character\bin\Debug\net9.0\Remove First and Last Character.deps.json
+C:\Users\lucas\Documents\Codewars\Remove First and Last Character\bin\Debug\net9.0\Remove First and Last Character.runtimeconfig.json
+C:\Users\lucas\Documents\Codewars\Remove First and Last Character\bin\Debug\net9.0\Remove First and Last Character.dll
+C:\Users\lucas\Documents\Codewars\Remove First and Last Character\bin\Debug\net9.0\Remove First and Last Character.pdb
+C:\Users\lucas\Documents\Codewars\Remove First and Last Character\obj\Debug\net9.0\Remove First and Last Character.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Codewars\Remove First and Last Character\obj\Debug\net9.0\Remove First and Last Character.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Codewars\Remove First and Last Character\obj\Debug\net9.0\Remove First and Last Character.AssemblyInfo.cs
+C:\Users\lucas\Documents\Codewars\Remove First and Last Character\obj\Debug\net9.0\Remove First and Last Character.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Codewars\Remove First and Last Character\obj\Debug\net9.0\Remove First and Last Character.dll
+C:\Users\lucas\Documents\Codewars\Remove First and Last Character\obj\Debug\net9.0\refint\Remove First and Last Character.dll
+C:\Users\lucas\Documents\Codewars\Remove First and Last Character\obj\Debug\net9.0\Remove First and Last Character.pdb
+C:\Users\lucas\Documents\Codewars\Remove First and Last Character\obj\Debug\net9.0\Remove First and Last Character.genruntimeconfig.cache
+C:\Users\lucas\Documents\Codewars\Remove First and Last Character\obj\Debug\net9.0\ref\Remove First and Last Character.dll

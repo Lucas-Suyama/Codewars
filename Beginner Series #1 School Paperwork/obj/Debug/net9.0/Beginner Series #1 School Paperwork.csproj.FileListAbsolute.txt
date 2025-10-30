@@ -1,0 +1,14 @@
+C:\Users\lucas\Documents\Codewars\Beginner Series #1 School Paperwork\bin\Debug\net9.0\Beginner Series #1 School Paperwork.exe
+C:\Users\lucas\Documents\Codewars\Beginner Series #1 School Paperwork\bin\Debug\net9.0\Beginner Series #1 School Paperwork.deps.json
+C:\Users\lucas\Documents\Codewars\Beginner Series #1 School Paperwork\bin\Debug\net9.0\Beginner Series #1 School Paperwork.runtimeconfig.json
+C:\Users\lucas\Documents\Codewars\Beginner Series #1 School Paperwork\bin\Debug\net9.0\Beginner Series #1 School Paperwork.dll
+C:\Users\lucas\Documents\Codewars\Beginner Series #1 School Paperwork\bin\Debug\net9.0\Beginner Series #1 School Paperwork.pdb
+C:\Users\lucas\Documents\Codewars\Beginner Series #1 School Paperwork\obj\Debug\net9.0\Beginner Series #1 School Paperwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Codewars\Beginner Series #1 School Paperwork\obj\Debug\net9.0\Beginner Series #1 School Paperwork.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Codewars\Beginner Series #1 School Paperwork\obj\Debug\net9.0\Beginner Series #1 School Paperwork.AssemblyInfo.cs
+C:\Users\lucas\Documents\Codewars\Beginner Series #1 School Paperwork\obj\Debug\net9.0\Beginner Series #1 School Paperwork.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Codewars\Beginner Series #1 School Paperwork\obj\Debug\net9.0\Beginner Series #1 School Paperwork.dll
+C:\Users\lucas\Documents\Codewars\Beginner Series #1 School Paperwork\obj\Debug\net9.0\refint\Beginner Series #1 School Paperwork.dll
+C:\Users\lucas\Documents\Codewars\Beginner Series #1 School Paperwork\obj\Debug\net9.0\Beginner Series #1 School Paperwork.pdb
+C:\Users\lucas\Documents\Codewars\Beginner Series #1 School Paperwork\obj\Debug\net9.0\Beginner Series #1 School Paperwork.genruntimeconfig.cache
+C:\Users\lucas\Documents\Codewars\Beginner Series #1 School Paperwork\obj\Debug\net9.0\ref\Beginner Series #1 School Paperwork.dll

@@ -1,0 +1,14 @@
+C:\Users\lucas\Documents\Codewars\Return Negative\bin\Debug\net9.0\Return Negative.exe
+C:\Users\lucas\Documents\Codewars\Return Negative\bin\Debug\net9.0\Return Negative.deps.json
+C:\Users\lucas\Documents\Codewars\Return Negative\bin\Debug\net9.0\Return Negative.runtimeconfig.json
+C:\Users\lucas\Documents\Codewars\Return Negative\bin\Debug\net9.0\Return Negative.dll
+C:\Users\lucas\Documents\Codewars\Return Negative\bin\Debug\net9.0\Return Negative.pdb
+C:\Users\lucas\Documents\Codewars\Return Negative\obj\Debug\net9.0\Return Negative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Codewars\Return Negative\obj\Debug\net9.0\Return Negative.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Codewars\Return Negative\obj\Debug\net9.0\Return Negative.AssemblyInfo.cs
+C:\Users\lucas\Documents\Codewars\Return Negative\obj\Debug\net9.0\Return Negative.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Codewars\Return Negative\obj\Debug\net9.0\Return Negative.dll
+C:\Users\lucas\Documents\Codewars\Return Negative\obj\Debug\net9.0\refint\Return Negative.dll
+C:\Users\lucas\Documents\Codewars\Return Negative\obj\Debug\net9.0\Return Negative.pdb
+C:\Users\lucas\Documents\Codewars\Return Negative\obj\Debug\net9.0\Return Negative.genruntimeconfig.cache
+C:\Users\lucas\Documents\Codewars\Return Negative\obj\Debug\net9.0\ref\Return Negative.dll

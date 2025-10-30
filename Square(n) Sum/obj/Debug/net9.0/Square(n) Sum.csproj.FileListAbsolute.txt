@@ -1,0 +1,14 @@
+C:\Users\lucas\Documents\Codewars\Square(n) Sum\bin\Debug\net9.0\Square(n) Sum.exe
+C:\Users\lucas\Documents\Codewars\Square(n) Sum\bin\Debug\net9.0\Square(n) Sum.deps.json
+C:\Users\lucas\Documents\Codewars\Square(n) Sum\bin\Debug\net9.0\Square(n) Sum.runtimeconfig.json
+C:\Users\lucas\Documents\Codewars\Square(n) Sum\bin\Debug\net9.0\Square(n) Sum.dll
+C:\Users\lucas\Documents\Codewars\Square(n) Sum\bin\Debug\net9.0\Square(n) Sum.pdb
+C:\Users\lucas\Documents\Codewars\Square(n) Sum\obj\Debug\net9.0\Square(n) Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Codewars\Square(n) Sum\obj\Debug\net9.0\Square(n) Sum.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Codewars\Square(n) Sum\obj\Debug\net9.0\Square(n) Sum.AssemblyInfo.cs
+C:\Users\lucas\Documents\Codewars\Square(n) Sum\obj\Debug\net9.0\Square(n) Sum.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Codewars\Square(n) Sum\obj\Debug\net9.0\Square(n) Sum.dll
+C:\Users\lucas\Documents\Codewars\Square(n) Sum\obj\Debug\net9.0\refint\Square(n) Sum.dll
+C:\Users\lucas\Documents\Codewars\Square(n) Sum\obj\Debug\net9.0\Square(n) Sum.pdb
+C:\Users\lucas\Documents\Codewars\Square(n) Sum\obj\Debug\net9.0\Square(n) Sum.genruntimeconfig.cache
+C:\Users\lucas\Documents\Codewars\Square(n) Sum\obj\Debug\net9.0\ref\Square(n) Sum.dll
