@@ -90,18 +90,10 @@ Outras pastas seguem padrão semelhante, cada uma com seu `Program.cs` e `.cspro
 
 ---
 
-## Perfil no Codewars (opcional)
-
-Você pode exibir seu badge do Codewars no início do README. Substitua `<SEU_USUARIO>` pelo seu usuário:
+## Perfil no Codewars
 
 ```md
-![Codewars Badge](https://www.codewars.com/users/<SEU_USUARIO>/badges/large)
-```
-
-Também é possível linkar para seu perfil:
-
-```md
-[Meu perfil no Codewars](https://www.codewars.com/users/<SEU_USUARIO>)
+[Meu perfil no Codewars]https://www.codewars.com/users/Lucas-Suyama
 ```
 
 ---
