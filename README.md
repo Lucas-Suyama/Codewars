@@ -16,7 +16,7 @@ Este repositório reúne todos os códigos que desenvolvo no **Codewars** para t
 - [Executar localmente](#executar-localmente)
 - [Estrutura dos projetos](#estrutura-dos-projetos)
 - [Convenções](#convenções)
-- [Perfil no Codewars (opcional)](#perfil-no-codewars-opcional)
+- [Perfil no Codewars](#perfil-no-codewars-opcional)
 - [Próximos passos](#próximos-passos)
 
 ---
