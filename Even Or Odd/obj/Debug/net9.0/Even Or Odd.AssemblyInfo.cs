@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Even Or Odd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75df3b9438ab2bf85ddec7c9aff1fde1cb73cf4b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Even Or Odd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Even Or Odd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
