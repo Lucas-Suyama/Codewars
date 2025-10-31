@@ -1,0 +1,15 @@
+C:\Users\lucas\Documents\Codewars\String repeat\bin\Debug\net9.0\String repeat.exe
+C:\Users\lucas\Documents\Codewars\String repeat\bin\Debug\net9.0\String repeat.deps.json
+C:\Users\lucas\Documents\Codewars\String repeat\bin\Debug\net9.0\String repeat.runtimeconfig.json
+C:\Users\lucas\Documents\Codewars\String repeat\bin\Debug\net9.0\String repeat.dll
+C:\Users\lucas\Documents\Codewars\String repeat\bin\Debug\net9.0\String repeat.pdb
+C:\Users\lucas\Documents\Codewars\String repeat\obj\Debug\net9.0\String repeat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Codewars\String repeat\obj\Debug\net9.0\String repeat.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Codewars\String repeat\obj\Debug\net9.0\String repeat.AssemblyInfo.cs
+C:\Users\lucas\Documents\Codewars\String repeat\obj\Debug\net9.0\String repeat.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Codewars\String repeat\obj\Debug\net9.0\String repeat.sourcelink.json
+C:\Users\lucas\Documents\Codewars\String repeat\obj\Debug\net9.0\String repeat.dll
+C:\Users\lucas\Documents\Codewars\String repeat\obj\Debug\net9.0\refint\String repeat.dll
+C:\Users\lucas\Documents\Codewars\String repeat\obj\Debug\net9.0\String repeat.pdb
+C:\Users\lucas\Documents\Codewars\String repeat\obj\Debug\net9.0\String repeat.genruntimeconfig.cache
+C:\Users\lucas\Documents\Codewars\String repeat\obj\Debug\net9.0\ref\String repeat.dll
