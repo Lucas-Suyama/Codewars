@@ -1,0 +1,15 @@
+C:\Users\lucas\Documents\Codewars\Kata - Reverse sequence\bin\Debug\net9.0\Kata - Reverse sequence.exe
+C:\Users\lucas\Documents\Codewars\Kata - Reverse sequence\bin\Debug\net9.0\Kata - Reverse sequence.deps.json
+C:\Users\lucas\Documents\Codewars\Kata - Reverse sequence\bin\Debug\net9.0\Kata - Reverse sequence.runtimeconfig.json
+C:\Users\lucas\Documents\Codewars\Kata - Reverse sequence\bin\Debug\net9.0\Kata - Reverse sequence.dll
+C:\Users\lucas\Documents\Codewars\Kata - Reverse sequence\bin\Debug\net9.0\Kata - Reverse sequence.pdb
+C:\Users\lucas\Documents\Codewars\Kata - Reverse sequence\obj\Debug\net9.0\Kata - Reverse sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Codewars\Kata - Reverse sequence\obj\Debug\net9.0\Kata - Reverse sequence.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Codewars\Kata - Reverse sequence\obj\Debug\net9.0\Kata - Reverse sequence.AssemblyInfo.cs
+C:\Users\lucas\Documents\Codewars\Kata - Reverse sequence\obj\Debug\net9.0\Kata - Reverse sequence.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Codewars\Kata - Reverse sequence\obj\Debug\net9.0\Kata - Reverse sequence.sourcelink.json
+C:\Users\lucas\Documents\Codewars\Kata - Reverse sequence\obj\Debug\net9.0\Kata - Reverse sequence.dll
+C:\Users\lucas\Documents\Codewars\Kata - Reverse sequence\obj\Debug\net9.0\refint\Kata - Reverse sequence.dll
+C:\Users\lucas\Documents\Codewars\Kata - Reverse sequence\obj\Debug\net9.0\Kata - Reverse sequence.pdb
+C:\Users\lucas\Documents\Codewars\Kata - Reverse sequence\obj\Debug\net9.0\Kata - Reverse sequence.genruntimeconfig.cache
+C:\Users\lucas\Documents\Codewars\Kata - Reverse sequence\obj\Debug\net9.0\ref\Kata - Reverse sequence.dll
