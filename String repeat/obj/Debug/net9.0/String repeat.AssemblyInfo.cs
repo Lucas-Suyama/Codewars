@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("String repeat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4120b24cc985f1ae7565b1789a880ccedf6125e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+961f98f321c22871f28cb0fdd4c6fb3005794586")]
 [assembly: System.Reflection.AssemblyProductAttribute("String repeat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("String repeat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
