@@ -1,0 +1,15 @@
+C:\Users\lucas\Documents\Codewars\Square Digits\bin\Debug\net9.0\Square Digits.exe
+C:\Users\lucas\Documents\Codewars\Square Digits\bin\Debug\net9.0\Square Digits.deps.json
+C:\Users\lucas\Documents\Codewars\Square Digits\bin\Debug\net9.0\Square Digits.runtimeconfig.json
+C:\Users\lucas\Documents\Codewars\Square Digits\bin\Debug\net9.0\Square Digits.dll
+C:\Users\lucas\Documents\Codewars\Square Digits\bin\Debug\net9.0\Square Digits.pdb
+C:\Users\lucas\Documents\Codewars\Square Digits\obj\Debug\net9.0\Square Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Codewars\Square Digits\obj\Debug\net9.0\Square Digits.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Codewars\Square Digits\obj\Debug\net9.0\Square Digits.AssemblyInfo.cs
+C:\Users\lucas\Documents\Codewars\Square Digits\obj\Debug\net9.0\Square Digits.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Codewars\Square Digits\obj\Debug\net9.0\Square Digits.sourcelink.json
+C:\Users\lucas\Documents\Codewars\Square Digits\obj\Debug\net9.0\Square Digits.dll
+C:\Users\lucas\Documents\Codewars\Square Digits\obj\Debug\net9.0\refint\Square Digits.dll
+C:\Users\lucas\Documents\Codewars\Square Digits\obj\Debug\net9.0\Square Digits.pdb
+C:\Users\lucas\Documents\Codewars\Square Digits\obj\Debug\net9.0\Square Digits.genruntimeconfig.cache
+C:\Users\lucas\Documents\Codewars\Square Digits\obj\Debug\net9.0\ref\Square Digits.dll

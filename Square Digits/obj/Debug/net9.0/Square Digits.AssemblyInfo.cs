@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Remove First and Last Character")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Square Digits")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ead306190856f6e814a40914c101a44e8d8076a")]
-[assembly: System.Reflection.AssemblyProductAttribute("Remove First and Last Character")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Remove First and Last Character")]
+[assembly: System.Reflection.AssemblyProductAttribute("Square Digits")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Square Digits")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
